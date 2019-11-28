@@ -12,7 +12,8 @@ You'll need to restart the app to see help.
 
 When on the Puzzle Page you can return to the carousel by double-tapping any of the white space.
 
-iPads do not have the cameras needed for hands-free play.  You have to tap the tile you want to move.
+iPads and Pre-iPhone X models do not have the cameras needed for hands-free play.  
+You have to tap the tile you want to move.
 
 ## With Magic Tiles!
 
