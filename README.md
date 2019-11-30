@@ -1,20 +1,5 @@
 # Nosie
 
-## Instructions...
-
-Oops!!
-I turned off the help screens to take some automated photos for the App Store, and forgot to turn them back on...
-
-Long Press on any white area to bring up settings.
-There you'll find the settings you can change.
-Turn on **help** by tapping on that row and tapping on "ON"
-You'll need to restart the app to see help. 
-
-When on the Puzzle Page you can return to the carousel by double-tapping any of the white space.
-
-iPads and Pre-iPhone X models do not have the cameras needed for hands-free play.  
-You have to tap the tile you want to move.
-
 ## With Magic Tiles!
 
 Tilt your head to aim your nose at a tile and it will move!
@@ -52,6 +37,19 @@ iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 
 Will run on all iPhones and iPads
 The app will automatically switch to manual mode if it can't enable the appropriate hardware.
 Simply tap on the tile you wish to move.
+
+
+## To Bring Up the Instructions...
+
+Long Press on any white area to bring up settings.
+There you'll find the settings you can change.
+Turn on **help** by tapping on that row and tapping on "ON"
+You'll need to restart the app to see help. 
+
+When on the Puzzle Page you can return to the carousel by double-tapping any of the white space.
+
+iPads and Pre-iPhone X models do not have the cameras needed for hands-free play.  
+You have to tap the tile you want to move.
 
 ## Privacy Policy
 
