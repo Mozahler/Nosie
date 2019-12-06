@@ -4,6 +4,14 @@
 
 Tilt your head to aim your nose at a tile and it will move!
 
+## New in Version 2.0!
+
+- New Puzzles!
+
+- Time Yourself (turn it on/off in settings)
+
+- Turn off hands-free play (until you get the hang of it!)
+
 **Solve a tile puzzle**
  
  Aim your nose at the tile you want to move and watch it slide into the empty space.
