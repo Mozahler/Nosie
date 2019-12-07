@@ -4,6 +4,14 @@
 
 Tilt your head to aim your nose at a tile and it will move!
 
+![Nosie on iPhone11](https://github.com/Mozahler/Nosie/blob/master/iPhone%2011%20Pro-0004_snapshotSizesapp:mainView:_Carousel%20with%20collosal%20cell%20size_.png)
+
+![Nosie on iPhone8] (https://github.com/Mozahler/Nosie/blob/master/iPhone%208-0003_testPuzzleDifficulty_AfterChangingPuzzleDifficulty%20-%20Challenging_.png)
+![Nosie Collosal Cells](https://github.com/Mozahler/Nosie/blob/master/iPhone%208-0004_snapshotSizesapp:mainView:_Carousel%20with%20collosal%20cell%20size_.png)
+![Nosie Feet](https://github.com/Mozahler/Nosie/blob/master/iPhone%208-0004_testPuzzleDifficulty_AfterChangingPuzzleDifficulty%20-%20Impossible%20nearly_.png)
+![Nosie on SE](https://github.com/Mozahler/Nosie/blob/master/iPhone%20SE-0002_snapshotSizesapp:mainView:_Carousel%20with%20small%20cell%20size_.png)
+
+
 ## New in Version 2.0!
 
 - New Puzzles!
